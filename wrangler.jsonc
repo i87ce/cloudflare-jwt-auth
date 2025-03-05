@@ -5,7 +5,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "cf-jwt-auth",
-	"main": "src/index.ts",
+	"main": "src/main.ts",
 	"compatibility_date": "2025-02-24",
 	"observability": {
 		"enabled": true
