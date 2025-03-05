@@ -31,3 +31,8 @@ lerna-debug.log*
 
 # misc
 .DS_Store
+/.idea/.gitignore
+/.idea/cloudflare-jwt-auth.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
